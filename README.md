@@ -8,5 +8,6 @@ Recipes have been divided into the type they are:
   + Snacks
   + Desserts
   + Drinks
+
 All measurements use the metric system, with some being converted from imperial values.
 
